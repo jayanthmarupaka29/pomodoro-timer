@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pomodoro Timer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="snow" id="snow"></div>
+    <div class="moon"></div>
+    <div class="trees"></div>
+    <div class="landscape"></div>
+
+    <div class="header">
+        <h1>Pomodoro Timer</h1>
+    </div>
+
+    <div class="timer-container">
+        <div class="time-display">
+            <div class="number-card">
+                <div class="time" id="minutes">25</div>
+            </div>
+            <div class="number-card">
+                <div class="time" id="seconds">00</div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <button class="btn start" id="startBtn">Start</button>
+            <button class="btn pause" id="pauseBtn">Pause</button>
+            <button class="btn reset" id="resetBtn">Reset</button>
+        </div>
+
+        <div class="custom-time">
+            <input type="number" id="customTime" placeholder="Minutes" min="1" max="60">
+            <button class="btn" id="setTimeBtn">Set Time</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
