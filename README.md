@@ -2,8 +2,7 @@
 
 A beautiful, responsive Pomodoro Timer web application featuring a winter wonderland theme with falling snow, a moonlit sky, and a serene landscape. This timer helps you implement the Pomodoro Technique for improved productivity and work-break balance.
 
-![Pomodoro Timer Preview](![image](https://github.com/user-attachments/assets/30ce15a5-3f3d-4cc6-baef-f95eb387a9a5)
-)
+![image](https://github.com/user-attachments/assets/9d95376f-a6d1-4b01-920f-20de8526e81b)
 
 ## Features
 
@@ -26,12 +25,12 @@ A beautiful, responsive Pomodoro Timer web application featuring a winter wonder
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/winter-pomodoro-timer.git
+git clone https://github.com/yourusername/pomodoro-timer.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd winter-pomodoro-timer
+cd pomodoro-timer
 ```
 
 3. Open `index.html` in your preferred web browser.
@@ -122,5 +121,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Special thanks to contributors and feedback providers
 
 ## Contact
+
 M Jayanth Kumar
 Project Link: [https://github.com/jayanthmarupaka/pomodoro-timer](https://github.com/jayanthmarupaka/pomodoro-timer)
