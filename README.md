@@ -122,5 +122,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-M Jayanth Kumar
+M Jayanth Kumar <br>
 Project Link: [https://github.com/jayanthmarupaka/pomodoro-timer](https://github.com/jayanthmarupaka/pomodoro-timer)
